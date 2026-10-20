@@ -1,0 +1,3 @@
+#AUTHORS
+
+* Manuel Paniagua Gómez
